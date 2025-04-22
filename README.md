@@ -1,4 +1,4 @@
-# Tarefa 2 - Projeto: Espantalho Eletrônico Inteligente com BitDogLab  
+# Tarefa 1 - Projeto: Sistema de Irrigação Inteligente com BitDogLab  
 **Fase 2 - EmbarcaTech**
 
 ## 📌 Descrição  
